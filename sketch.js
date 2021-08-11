@@ -104,7 +104,7 @@ screen=2;
 gameState ="end";
 }
 }
-
+}
 
 function startScreen(){
   background(start_bg);
@@ -217,23 +217,5 @@ function nextlevel(){
   console.log("achieved")
   
   background("yellow"); 
-
-
-
-  
+ 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
